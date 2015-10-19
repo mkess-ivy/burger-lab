@@ -1,0 +1,16 @@
+.bg-style {
+	background-size: cover;
+	background-position: center center;
+}
+
+.icon-image {
+	background-image: url('../images/american-burger-icon.png');
+}
+
+.article-img {
+	background-image: url('../images/american-burger-2.png');
+}
+
+.ivy-logo {
+	background-image: url('../images/ivy-leaf-100.png');	
+}
